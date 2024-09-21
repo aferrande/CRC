@@ -1,0 +1,45 @@
+body {
+  height: 100vh;
+  font-family: arial;
+  width: 700px;
+  margin: auto;
+  text-align: justify;
+  padding: 0px 30px 0px 30px;
+  border-style: none solid none solid;
+  border-width: 7px;
+  border-color: #dcecfa #6594bd;
+  line-height: 1.4;
+}
+
+.section_title {
+  color: #0b5394;
+  margin: 15px 0 0 0;
+}
+
+h1.section_title {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.position {
+  display: flex;
+  justify-content: space-between;
+}
+.position h4 {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+}
+
+header {
+  text-align: center;
+}
+
+.cert li {
+  margin: 0 0 10px;
+}
